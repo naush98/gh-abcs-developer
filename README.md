@@ -70,4 +70,3 @@
 ### InnerSource
 - [Manage an InnerSource program by using GitHub - Learn - Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/manage-innersource-program-github/)
 - [An introduction to innersource - GitHub Resources](https://resources.github.com/innersource/fundamentals/)
-##Test
